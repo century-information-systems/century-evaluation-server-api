@@ -28,6 +28,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Docs
+
+The API URL is `http://localhost:3232/api`
+
+You can visit the API documentation by following this URL: `http://localhost:3232/docs`
+
 ## Test
 
 ```bash
